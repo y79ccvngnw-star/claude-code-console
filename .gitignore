@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# 日志与本地环境
+*.log
+.env
+.env.*
+*.key
+*.pem
+*.p12
+.venv/
+
+# Claude Code 本地配置与会话，绝不提交
+config/
+projects/
+sessions/
+
+# 构建产物（桌面压缩包里会带一份，仓库默认不提交）
+dist/
+*.app/
+*.icns
+*.zip
+__MACOSX/
+
+# 图标 PNG 是二进制，仓库只存 .b64 文本，构建时自动还原
+assets/*.png
