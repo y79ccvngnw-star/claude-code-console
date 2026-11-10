@@ -177,4 +177,4 @@ claude-code-console/
 `[claude-code:unrecognized_model]` 是 Claude Code 客户端不认识模型字面 id 的自检提示，功能正常；`/api/ask` 已在输出里过滤。
 
 ## 感谢
-我说实话，我毛程序都不懂，感谢Claude code帮我完善这个工具 感谢DeepSeek帮我写出这个工具的雏形，感谢workbuddy帮我上传，感谢unslop帮我优化ui，我只是觉得Claude code的控制台界面配置东西难弄，搓这个程序也就用了几个小时，目前只支持中文，反响好再做别的语言。
+我说实话，我毛程序都不懂，感谢Claude code帮我完善这个工具 感谢DeepSeek帮我写出这个工具的雏形，感谢workbuddy帮我上传，感谢unslop帮我优化ui，我只是觉得Claude code的控制台界面配置东西难弄，搓这个程序也就用了几个小时，目前只支持中文，反响好再做别的语言；只有Mac版本，因为我的笔记本，台式都是Mac，没有Windows电脑；我自己测试的时候，遇到过打不开的情况，如果打不开，双击`.commend`文件就行了。
